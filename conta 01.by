@@ -1,4 +1,0 @@
-#conta
-print("qual numero voce deseja?")
-numero= int(input())
-print(numero-1)
